@@ -7,7 +7,7 @@ This script captures all packets from and to a specified phone number. It can be
 
 Usage:
 
-./call_and_sms_capture.sh
+./PhoneNumber_Intercept.sh
 Requirements:
 
 tshark
@@ -22,5 +22,6 @@ Example:
 
 PHONE_NUMBER="653772744"
 
-./call_and_sms_capture.sh
+./PhoneNumber_Intercept.sh
+
 This will capture all packets from and to the phone number +237653772744. Once the capture is complete, the script will open the capture file in tcpdump pcap viewx tool so that you can analyze the call and SMS messages
