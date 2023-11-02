@@ -6,8 +6,12 @@ Call and SMS Capture Script
 This script captures all packets from and to a specified phone number. It can be used to capture call and SMS messages for later analysis.
 
 Usage:
+git clone https://github.com/CIPHER0930/Call_-_SMS_Interception_Attack
 
+chmod +x PhoneNumber_intercept.sh
 ./PhoneNumber_Intercept.sh
+OR
+bash PhoneNumber_Intercept.sh
 Requirements:
 
 tshark
