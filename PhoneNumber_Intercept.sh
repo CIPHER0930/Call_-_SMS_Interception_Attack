@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Set the phone number to intercept
 PHONE_NUMBER="1234567890"
