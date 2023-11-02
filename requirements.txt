@@ -1,0 +1,8 @@
+tshark
+tcpdump_pcap_viewx
+#Ubuntu or Debian:
+sudo apt install tshark tcpdump-dev
+sudo pip3 install tcpdump_pcap_viewx
+#CentOS or Red Hat:
+sudo yum install tshark tcpdump-devel
+sudo pip3 install tcpdump_pcap_viewx
